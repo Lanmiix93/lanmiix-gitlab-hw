@@ -40,7 +40,7 @@ git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+https://github.com/Lanmiix93/lanmiix-gitlab-hw/blob/main/Задание-1.png (Web Вход)
 
 
 ---
@@ -55,12 +55,15 @@ git push origin
 
 ```
 Поле для вставки кода...
+git add *
 git commit "название коммита"
 git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+https://github.com/Lanmiix93/lanmiix-gitlab-hw/blob/main/Задание-2.2.png (Лог)
+https://github.com/Lanmiix93/lanmiix-gitlab-hw/blob/main/Задание-2.3.png (Latest data)
+https://github.com/Lanmiix93/lanmiix-gitlab-hw/blob/main/Задание-2.png (hosts)
 
 
 ---
